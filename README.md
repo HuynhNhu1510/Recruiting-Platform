@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/32d8b163-e717-4a48-93e8-f08f8bbc718b)# Thành viên
+![image](https://github.com/user-attachments/assets/94256c44-a481-4cde-86f0-fffcdf8709d0)![image](https://github.com/user-attachments/assets/32d8b163-e717-4a48-93e8-f08f8bbc718b)# Thành viên
 - Huỳnh Như:
 
 Leader
@@ -23,10 +23,41 @@ Nội dung báo cáo
 ## 2. Danh sách chức năng chính
 ## 3. Biểu đồ ca sử dụng - Usecase Diagram
 ## 4. Tác nhân hệ thống
+| STT     | Tác nhân                      | Mô tả                                                        |
+| :------ | ------------------------------| -------------------------------------------------------------|
+| 1       | Khách vãng lai                |Khách vãng lai là những người chưa đăng nhập vào hệ thống. Khách vãng lai sẽ xem các thông tin công khai hoặc nội dung giới thiệu của trang website.|
+| 2       | Thành viên                    |
+| 3       | Ứng viên                      |
+| 4       | Nhà tuyển dụng - Doanh nghiệp |
+| 5       | Quản trị viên                 |
+
+
 ## 5. Mô hình tổng quan sản phẩm
+![image](https://github.com/user-attachments/assets/357be087-d9b5-4263-8c23-0611baaf791c)
+
 ## 6. Kiến trúc thông tin hệ thống - Information Architecture
+### 6.1 Trang đăng tin và tìm việc 2
+![image](https://github.com/user-attachments/assets/14556685-db40-4b54-b867-53921b9e5e4d)
+
+### 6.2 Trang quản trị Admin website 
+![image](https://github.com/user-attachments/assets/273e15c4-2898-490d-98a0-3aecc9155e4e)
+
 ## 7. Tổng quan chức năng hệ thống
-## 8. Mô hình hệ thống
+### 7.1 Luồng của khách vãng lai 
+![image](https://github.com/user-attachments/assets/de7e93a5-a535-4f9c-a1a5-288c239c63d2)
+
+### 7.2 Luồng của ứng viên
+![image](https://github.com/user-attachments/assets/c9f8ad61-c934-4a0f-8ef4-637b0f85a661)
+
+### 7.3 Luồng doanh nghiệp 
+![image](https://github.com/user-attachments/assets/61bd27df-84fa-44eb-9225-8e1ea74c638b)
+
+### 7.4 Luồng quản trị viên
+![image](https://github.com/user-attachments/assets/9fbb1ef7-02e2-43d0-b975-9464176d9d84)
+
+## 8. Mô hình tổng quan kiến trúc hệ thống
+![image](https://github.com/user-attachments/assets/32fda5d2-f37e-417b-9385-e45fb3364249)
+
 ## 9. Sơ đồ hoạt động - Activity Diagram 
 ### 9.1 Cập nhật thông tin công ty
 ![image](https://github.com/user-attachments/assets/13ae608a-c9dc-44ee-acce-498c01f18d71)
