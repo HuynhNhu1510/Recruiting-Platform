@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/94256c44-a481-4cde-86f0-fffcdf8709d0)![image](https://github.com/user-attachments/assets/32d8b163-e717-4a48-93e8-f08f8bbc718b)# Thành viên
+# Thành viên
 - Huỳnh Như:
 
 Leader
