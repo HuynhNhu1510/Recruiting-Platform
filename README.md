@@ -1,21 +1,19 @@
 ## Project-1
 - Thành viên:
 </br> + Huỳnh Như:
-
-          - Leader
+- Leader
   
-          - Phân tích nghiệp vụ
+- Phân tích nghiệp vụ
   
-          - Frontend
+- Frontend
   
-          - CSDL
+- CSDL
   
-          - Nội dung báo cáo
+- Nội dung báo cáo
   
 </br> + Anh Tân:
-
-          - Backend
+- Backend
           
-          - CSDL
+- CSDL
           
-          - Nội dung báo cáo
+- Nội dung báo cáo
