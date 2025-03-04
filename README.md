@@ -20,8 +20,55 @@ Nội dung báo cáo
 # Phân tích nghiệp vụ
 
 ## 1. Tổng quan yêu cầu nghiệp vụ
-## 2. Danh sách chức năng chính
+### 1.1	Yêu cầu khách vãng lai
+- Khách vãng lai (Guests) là những người dùng chưa thực hiện đăng nhập hoặc xác thực vào hệ thống. Họ chỉ được cấp quyền truy cập hạn chế vào một số chức năng, bao gồm:
+
+Đăng ký tài khoản mới
+
+Tìm kiếm và xem thông tin chi tiết về công việc
+
+Tìm kiếm và xem thông tin chi tiết về doanh nghiệp
+### 1.2	Yêu cầu nhà tuyển dụng – doanh nghiệp
+- Thành viên (Members) là người dùng đã đăng nhập vào trang web tìm việc với vai trò "Doanh nghiệp" (Enterprise). Họ được cấp quyền sử dụng các chức năng sau:
+
+Đăng nhập và đăng xuất khỏi hệ thống
+
+Xem và theo dõi các thống kê hồ sơ
+
+Cập nhật thông tin chi tiết của doanh nghiệp
+
+Quản lý danh sách và thông tin các công việc đăng tuyển
+
+Thực hiện các thao tác trong quy trình tuyển dụng
+### 1.3 Yêu cầu ứng viên
+- Thành viên (Members) là những người dùng đã đăng nhập vào hệ thống trang web tìm việc với vai trò "Ứng viên" (Candidate). Các chức năng họ có thể sử dụng bao gồm:
+- Thực hiện đăng nhập và đăng xuất khỏi hệ thống
+
+Theo dõi thống kê hồ sơ cá nhân của họ
+
+Cập nhật và chỉnh sửa hồ sơ ứng viên
+
+Ứng tuyển vào các công việc phù hợp
+### 1.4	Yêu cầu quản trị viên website
+- Thành viên (Members) là những người đã đăng nhập vào hệ thống bảng điều khiển quản trị với vai trò "Quản trị viên" (Admin). Họ có quyền truy cập vào các chức năng sau:
+
+Đăng nhập và đăng xuất tài khoản quản trị
+
+Quản lý danh sách và thông tin của người dùng trong hệ thống
+
+Quản lý danh sách công việc được đăng tuyển bởi các doanh nghiệp
+
+Theo dõi và xem các thống kê toàn diện về hệ thống Grabwork
+
 ## 3. Biểu đồ ca sử dụng - Usecase Diagram
+### 3.1 Website Admin
+![image](https://github.com/user-attachments/assets/744fb28d-2383-4ff1-94d0-819324b9244f)
+
+### 3.2 Website tìm việc và đăng tin
+![image](https://github.com/user-attachments/assets/598b42ef-58fe-43be-8a24-130cea5aa168)
+
+
+
 ## 4. Tác nhân hệ thống
 | STT     | Tác nhân                      | Mô tả                                                        |
 | :------ | ------------------------------| -------------------------------------------------------------|
