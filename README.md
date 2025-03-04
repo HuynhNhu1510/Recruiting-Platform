@@ -1,4 +1,3 @@
-## Project-1
 # Thành viên
 - Huỳnh Như:
 
@@ -18,3 +17,7 @@ Backend
 CSDL
           
 Nội dung báo cáo
+# Phân tích nghiệp vụ
+
+1. Tổng quan yêu cầu nghiệp vụ
+2. 
