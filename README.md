@@ -1,6 +1,6 @@
 ## Project-1
 - Thành viên:
-</br> + Huỳnh Như:
+</br>+ Huỳnh Như:
 - Leader
   
 - Phân tích nghiệp vụ
@@ -11,7 +11,7 @@
   
 - Nội dung báo cáo
   
-</br> + Anh Tân:
+</br>+ Anh Tân:
 - Backend
           
 - CSDL
