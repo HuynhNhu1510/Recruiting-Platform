@@ -42,7 +42,8 @@ Quản lý danh sách và thông tin các công việc đăng tuyển
 Thực hiện các thao tác trong quy trình tuyển dụng
 ### 1.3 Yêu cầu ứng viên
 - Thành viên (Members) là những người dùng đã đăng nhập vào hệ thống trang web tìm việc với vai trò "Ứng viên" (Candidate). Các chức năng họ có thể sử dụng bao gồm:
-- Thực hiện đăng nhập và đăng xuất khỏi hệ thống
+
+Thực hiện đăng nhập và đăng xuất khỏi hệ thống
 
 Theo dõi thống kê hồ sơ cá nhân của họ
 
