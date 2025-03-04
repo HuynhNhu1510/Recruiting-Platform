@@ -25,11 +25,11 @@ Nội dung báo cáo
 ## 4. Tác nhân hệ thống
 | STT     | Tác nhân                      | Mô tả                                                        |
 | :------ | ------------------------------| -------------------------------------------------------------|
-| 1       | Khách vãng lai                |Khách vãng lai là những người chưa đăng nhập vào hệ thống. Khách vãng lai sẽ xem các thông tin công khai hoặc nội dung giới thiệu của trang website.|
-| 2       | Thành viên                    |
-| 3       | Ứng viên                      |
-| 4       | Nhà tuyển dụng - Doanh nghiệp |
-| 5       | Quản trị viên                 |
+| 1       | Khách vãng lai                | Khách vãng lai là những người chưa đăng nhập vào hệ thống. Khách vãng lai sẽ xem các thông tin công khai hoặc nội dung giới thiệu của trang website.|
+| 2       | Thành viên                    | Thành viên là những người đã có tài khoản và đã đăng nhập vào trang web tìm việc. Thành viên có thể ứng tuyển, hoặc đăng tin tuyển dụng.|
+| 3       | Ứng viên                      | Ứng viên là những người đăng nhập vào trang web tìm việc với vai trò "ứng viên". Họ sẽ tìm kiếm, nộp đơn và tham gia phỏng vấn với các doanh nghiệp.|
+| 4       | Nhà tuyển dụng - Doanh nghiệp | Doanh nghiệp là người đăng nhập vào trang web tìm việc với vai trò "doanh nghiệp". Họ sẽ quản lý bảng tin việc làm, đăng tuyển và gửi mail hẹn lịch phỏng vấn.|
+| 5       | Quản trị viên                 | Quản trị viên là người đăng nhập vào trang quản trị hệ thống với vai trò "quản trị viên". Họ quản lý hoạt động của người dùng và giám sát sự phát triển của hệ thống Grabwork.|
 
 
 ## 5. Mô hình tổng quan sản phẩm
