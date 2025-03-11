@@ -5,16 +5,16 @@ Leader
   
 Phân tích nghiệp vụ
   
-Frontend
+Lập trình Frontend
   
-CSDL
+Hỗ trợ thiết kế Database 
   
 Nội dung báo cáo
 - Anh Tân:
 
-Backend
+Lập trình Backend
           
-CSDL
+Thiết kế Database
           
 Nội dung báo cáo
 # Phân tích nghiệp vụ
